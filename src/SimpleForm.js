@@ -1,5 +1,6 @@
 import React from 'react'
 import { Field, reduxForm } from 'redux-form'
+import 'node_modules/bootstrap/dist/css/bootstrap.css'
 
 const SimpleForm = props => {
   const { handleSubmit, pristine, reset, submitting } = props

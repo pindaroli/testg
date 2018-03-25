@@ -13,7 +13,7 @@ ReactDOM.render(
         <div style={{ padding: 15 }}>
             <h2>Simple Form</h2>
             <SimpleForm onSubmit={showResults} />
-            <Values form="simple" />
+            {/*<Values form="simple" />*/}
         </div>
     </Provider>,
     rootEl
