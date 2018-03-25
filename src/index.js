@@ -5,7 +5,7 @@ import { Values } from "redux-form-website-template";
 import store from "./store";
 import showResults from "./showResults";
 import SimpleForm from "./SimpleForm";
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 const rootEl = document.getElementById("root");
 
 ReactDOM.render(
