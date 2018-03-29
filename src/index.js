@@ -7,6 +7,7 @@ import showResults from "./showResults";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import store from "./store";
 import PayForm from "./PayForm";
+import rulesMap from './rulesMap'
 
 const rootEl = document.getElementById("root");
 
@@ -14,7 +15,7 @@ ReactDOM.render(
     <Provider store={store}>
         <div style={{ padding: 15 }}>
             <h2>Field-Level Validation</h2>
-            <PayForm onSubmit={showResults} />
+            <PayForm onSubmit={showResults} rulesMap={rulesMap}/>
             <Values form="payForm" />
         </div>
     </Provider>,

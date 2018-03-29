@@ -1,7 +1,7 @@
 import React from 'react'
 import {Field, reduxForm} from 'redux-form'
 import ruleNode from './ruleNode'
-import rulesMap from './rulesMap'
+
 
 const required = value => value ? undefined : 'Required'
 const maxLength = max => value =>
@@ -35,14 +35,13 @@ const PayForm = (props) => {
     return (
 
         <form onSubmit={handleSubmit}>
-        <pre>{JSON.stringify(props.rulesMap)}</pre>
             <div className={"container-fluid"}>
                 <div className={"row"}>
                     <Field name="PaymentInstructionId" type="text"
                            component={renderFieldText} label="PaymentInstructionId"
-                           maxlen={rulesMap}
-                           len={rulesMap}
-                           validate={[required, rulesMap]}
+                           maxlen={rulesMap.get("PaymentInstructionId").len}
+                           len={rulesMap.get("PaymentInstructionId").len}
+                           validate={[required, rulesMap.get("PaymentInstructionId").len]}
                     />
                     <Field name="email" type="email"
                            component={renderFieldText} label="Email"
