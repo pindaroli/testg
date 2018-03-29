@@ -24,7 +24,7 @@ const renderFieldText = ({input, label, type, len, maxlen, meta: {touched, error
     <div className={"col-sm"}>
         <label className={"small"}>{label}</label>
         <div>
-            <input {...input} placeholder={label} type={type} maxlength={maxlen} size={len}/>
+            <input {...input}  type={"Text"} maxlength={maxlen} size={len}/>
             {touched && ((error && <span>{error}</span>) || (warning && <span>{warning}</span>))}
         </div>
     </div>
@@ -37,22 +37,51 @@ const PayForm = (props) => {
         <form onSubmit={handleSubmit}>
             <div className={"container-fluid"}>
                 <div className={"row"}>
-                    <Field name="PaymentInstructionId" type="text"
+
+                    <Field name="PaymentInstructionId"
                            component={renderFieldText} label="PaymentInstructionId"
                            maxlen={rulesMap.get("PaymentInstructionId").len}
                            len={rulesMap.get("PaymentInstructionId").len}
-                           validate={[required, rulesMap.get("PaymentInstructionId").len]}
+                           //validate={[required, rulesMap.get("PaymentInstructionId").len]}
                     />
-                    <Field name="email" type="email"
-                           component={renderFieldText} label="Email"
+                    <Field name="EndToEndId"
+                           component={renderFieldText} label="EndToEndId"
+                           maxlen={rulesMap.get("EndToEndId").len}
+                           len={rulesMap.get("EndToEndId").len}
                            validate={email}
                            warn={aol}
                     />
-                    <Field name="age" type="number"
-                           component={renderFieldText} label="Age"
-                           validate={[required, number, minValue18]}
+                    <Field name="ValueDate"
+                           component={renderFieldText} label="ValueDate"
+                           maxlen={rulesMap.get("ValueDate").len}
+                           len={rulesMap.get("ValueDate").len}
                            warn={tooOld}
                     />
+                    <Field name="Amount"
+                           component={renderFieldText} label="Amount"
+                           maxlen={rulesMap.get("Amount").len}
+                           len={rulesMap.get("Amount").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="CurrencyCode"
+                           component={renderFieldText} label="CurrencyCode"
+                           maxlen={rulesMap.get("CurrencyCode").len}
+                           len={rulesMap.get("CurrencyCode").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row">
+
+                    <Field name="Charges"
+                           component={renderFieldText} label="Charges"
+                           maxlen={rulesMap.get("Charges").len}
+                           len={rulesMap.get("Charges").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+
                 </div>
                 <div>
                     <button type="submit" disabled={submitting}>Submit</button>
