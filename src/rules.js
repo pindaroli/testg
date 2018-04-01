@@ -29,7 +29,7 @@ const	rules=[
 ["CreditorAddress1",849,70],
 ["CreditorAddress2",919,70],
 ["CreditorCountry",989,2],
-["DebtorId",991,35],
+["CreditorId",991,35],
 ["CreditorIBAN",1026,34],
 ["CreditorAgentBIC",1060,11],
 ["CreditorAccount",1071,20],

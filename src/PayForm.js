@@ -24,7 +24,7 @@ const renderFieldText = ({input, label, type, len, maxlen, meta: {touched, error
     <div className={"col-sm"}>
         <label className={"small"}>{label}</label>
         <div>
-            <input {...input}  type={"Text"} maxlength={maxlen} size={len}/>
+            <input {...input} type={"Text"} maxlength={maxlen} size={len}/>
             {touched && ((error && <span>{error}</span>) || (warning && <span>{warning}</span>))}
         </div>
     </div>
@@ -42,7 +42,7 @@ const PayForm = (props) => {
                            component={renderFieldText} label="PaymentInstructionId"
                            maxlen={rulesMap.get("PaymentInstructionId").len}
                            len={rulesMap.get("PaymentInstructionId").len}
-                           //validate={[required, rulesMap.get("PaymentInstructionId").len]}
+                        //validate={[required, rulesMap.get("PaymentInstructionId").len]}
                     />
                     <Field name="EndToEndId"
                            component={renderFieldText} label="EndToEndId"
@@ -81,7 +81,186 @@ const PayForm = (props) => {
                            validate={[required]}
                            warn={tooOld}
                     />
+                    <Field name="ChargesCurrencyCode"
+                           component={renderFieldText} label="ChargesCurrencyCode"
+                           maxlen={rulesMap.get("ChargesCurrencyCode").len}
+                           len={rulesMap.get("ChargesCurrencyCode").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="ChargeIban"
+                           component={renderFieldText} label="ChargeIban"
+                           maxlen={rulesMap.get("ChargeIban").len}
+                           len={rulesMap.get("ChargeIban").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="CategoryPurposeCode"
+                           component={renderFieldText} label="CategoryPurposeCode"
+                           maxlen={rulesMap.get("CategoryPurposeCode").len}
+                           len={rulesMap.get("CategoryPurposeCode").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="CategoryPurposeProprietary"
+                           component={renderFieldText} label="CategoryPurposeProprietary"
+                           maxlen={rulesMap.get("CategoryPurposeProprietary").len}
+                           len={rulesMap.get("CategoryPurposeProprietary").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="PurposeCode"
+                           component={renderFieldText} label="PurposeCode"
+                           maxlen={rulesMap.get("PurposeCode").len}
+                           len={rulesMap.get("PurposeCode").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row">
 
+                    <Field name="RemittanceInfoUnstrd"
+                           component={renderFieldText} label="RemittanceInfoUnstrd"
+                           maxlen={rulesMap.get("RemittanceInfoUnstrd").len}
+                           len={rulesMap.get("RemittanceInfoUnstrd").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row" >
+                    <Field name="SctServiceLevel"
+                           component={renderFieldText} label="SctServiceLevel"
+                           maxlen={rulesMap.get("SctServiceLevel").len}
+                           len={rulesMap.get("SctServiceLevel").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DebtorName"
+                           component={renderFieldText} label="DebtorName"
+                           maxlen={rulesMap.get("DebtorName").len}
+                           len={rulesMap.get("DebtorName").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DebtorAddress1"
+                           component={renderFieldText} label="DebtorAddress1"
+                           maxlen={rulesMap.get("DebtorAddress1").len}
+                           len={rulesMap.get("DebtorAddress1").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DebtorAddress2"
+                           component={renderFieldText} label="DebtorAddress2"
+                           maxlen={rulesMap.get("DebtorAddress2").len}
+                           len={rulesMap.get("DebtorAddress2").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row">
+                    <Field name="DebtorCountry"
+                           component={renderFieldText} label="DebtorCountry"
+                           maxlen={rulesMap.get("DebtorCountry").len}
+                           len={rulesMap.get("DebtorCountry").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DebtorId"
+                           component={renderFieldText} label="DebtorId"
+                           maxlen={rulesMap.get("DebtorId").len}
+                           len={rulesMap.get("DebtorId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DebtorIBAN"
+                           component={renderFieldText} label="DebtorIBAN"
+                           maxlen={rulesMap.get("DebtorIBAN").len}
+                           len={rulesMap.get("DebtorIBAN").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DebtorAgentBIC"
+                           component={renderFieldText} label="DebtorAgentBIC"
+                           maxlen={rulesMap.get("DebtorAgentBIC").len}
+                           len={rulesMap.get("DebtorAgentBIC").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DebtorAccount"
+                           component={renderFieldText} label="DebtorAccount"
+                           maxlen={rulesMap.get("DebtorAccount").len}
+                           len={rulesMap.get("DebtorAccount").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row">
+                    <Field name="DebtorBankNationalId"
+                           component={renderFieldText} label="DebtorBankNationalId"
+                           maxlen={rulesMap.get("DebtorBankNationalId").len}
+                           len={rulesMap.get("DebtorBankNationalId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DebtorBranchNationalId"
+                           component={renderFieldText} label="DebtorBranchNationalId"
+                           maxlen={rulesMap.get("DebtorBranchNationalId").len}
+                           len={rulesMap.get("DebtorBranchNationalId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="UltimateDebtorName"
+                           component={renderFieldText} label="UltimateDebtorName"
+                           maxlen={rulesMap.get("UltimateDebtorName").len}
+                           len={rulesMap.get("UltimateDebtorName").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="UltimateDebtorId"
+                           component={renderFieldText} label="UltimateDebtorId"
+                           maxlen={rulesMap.get("UltimateDebtorId").len}
+                           len={rulesMap.get("UltimateDebtorId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row">
+                    <Field name="CreditorName"
+                           component={renderFieldText} label="CreditorName"
+                           maxlen={rulesMap.get("CreditorName").len}
+                           len={rulesMap.get("CreditorName").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="CreditorAddress1"
+                           component={renderFieldText} label="CreditorAddress1"
+                           maxlen={rulesMap.get("CreditorAddress1").len}
+                           len={rulesMap.get("CreditorAddress1").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="CreditorAddress2"
+                           component={renderFieldText} label="CreditorAddress2"
+                           maxlen={rulesMap.get("CreditorAddress2").len}
+                           len={rulesMap.get("CreditorAddress2").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="CreditorCountry"
+                           component={renderFieldText} label="CreditorCountry"
+                           maxlen={rulesMap.get("CreditorCountry").len}
+                           len={rulesMap.get("CreditorCountry").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+
+                    <Field name="CreditorId"
+                           component={renderFieldText} label="CreditorId"
+                           maxlen={rulesMap.get("CreditorId").len}
+                           len={rulesMap.get("CreditorId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
                 </div>
                 <div>
                     <button type="submit" disabled={submitting}>Submit</button>
