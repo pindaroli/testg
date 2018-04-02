@@ -31,7 +31,7 @@ const renderFieldText = ({input, label, type, len, maxlen, meta: {touched, error
 )
 
 const PayForm = (props) => {
-    const {handleSubmit, pristine, reset, submitting, rulesMap} = props
+    const {handleSubmit, pristine, reset, submitting, rulesMap} = props;
     return (
 
         <form onSubmit={handleSubmit}>
@@ -253,11 +253,152 @@ const PayForm = (props) => {
                            validate={[required]}
                            warn={tooOld}
                     />
-
                     <Field name="CreditorId"
                            component={renderFieldText} label="CreditorId"
                            maxlen={rulesMap.get("CreditorId").len}
                            len={rulesMap.get("CreditorId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row" >
+                    <Field name="CreditorIBAN"
+                           component={renderFieldText} label="CreditorIBAN"
+                           maxlen={rulesMap.get("CreditorIBAN").len}
+                           len={rulesMap.get("CreditorIBAN").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="CreditorAgentBIC"
+                           component={renderFieldText} label="CreditorAgentBIC"
+                           maxlen={rulesMap.get("CreditorAgentBIC").len}
+                           len={rulesMap.get("CreditorAgentBIC").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="CreditorAccount"
+                           component={renderFieldText} label="CreditorAccount"
+                           maxlen={rulesMap.get("CreditorAccount").len}
+                           len={rulesMap.get("CreditorAccount").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="CreditorBankNationalId"
+                           component={renderFieldText} label="CreditorBankNationalId"
+                           maxlen={rulesMap.get("CreditorBankNationalId").len}
+                           len={rulesMap.get("CreditorBankNationalId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+
+                </div>
+                <div className="row">
+                    <Field name="UltimateCreditorName"
+                           component={renderFieldText} label="UltimateCreditorName"
+                           maxlen={rulesMap.get("UltimateCreditorName").len}
+                           len={rulesMap.get("UltimateCreditorName").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="UltimatecreditorId"
+                           component={renderFieldText} label="UltimatecreditorId"
+                           maxlen={rulesMap.get("UltimatecreditorId").len}
+                           len={rulesMap.get("UltimatecreditorId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row">
+                    <Field name="CreditorNickname"
+                           component={renderFieldText} label="CreditorNickname"
+                           maxlen={rulesMap.get("CreditorNickname").len}
+                           len={rulesMap.get("CreditorNickname").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DebtorUserId"
+                           component={renderFieldText} label="DebtorUserId"
+                           maxlen={rulesMap.get("DebtorUserId").len}
+                           len={rulesMap.get("DebtorUserId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DebtorMobile"
+                           component={renderFieldText} label="DebtorMobile"
+                           maxlen={rulesMap.get("DebtorMobile").len}
+                           len={rulesMap.get("DebtorMobile").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row">
+                    <Field name="DeviceUniqueId"
+                           component={renderFieldText} label="DeviceUniqueId"
+                           maxlen={rulesMap.get("DeviceUniqueId").len}
+                           len={rulesMap.get("DeviceUniqueId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DeviceModel"
+                           component={renderFieldText} label="DeviceModel"
+                           maxlen={rulesMap.get("DeviceModel").len}
+                           len={rulesMap.get("DeviceModel").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="DeviceIpAddress"
+                           component={renderFieldText} label="DeviceIpAddress"
+                           maxlen={rulesMap.get("DeviceIpAddress").len}
+                           len={rulesMap.get("DeviceIpAddress").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row">
+                    <Field name="DebtorEmail"
+                           component={renderFieldText} label="DebtorEmail"
+                           maxlen={rulesMap.get("DebtorEmail").len}
+                           len={rulesMap.get("DebtorEmail").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="CreditorEmail"
+                           component={renderFieldText} label="CreditorEmail"
+                           maxlen={rulesMap.get("CreditorEmail").len}
+                           len={rulesMap.get("CreditorEmail").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+
+                    <Field name="CreditorMobile"
+                           component={renderFieldText} label="CreditorMobile"
+                           maxlen={rulesMap.get("CreditorMobile").len}
+                           len={rulesMap.get("CreditorMobile").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row">
+                    <Field name="AuthorizationId"
+                           component={renderFieldText} label="AuthorizationId"
+                           maxlen={rulesMap.get("AuthorizationId").len}
+                           len={rulesMap.get("AuthorizationId").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                    <Field name="SecurityToken"
+                           component={renderFieldText} label="SecurityToken"
+                           maxlen={rulesMap.get("SecurityToken").len}
+                           len={rulesMap.get("SecurityToken").len}
+                           validate={[required]}
+                           warn={tooOld}
+                    />
+                </div>
+                <div className="row">
+                    <Field name="FillerArea"
+                           component={renderFieldText} label="FillerArea"
+                           maxlen={rulesMap.get("FillerArea").len}
+                           len={rulesMap.get("FillerArea").len}
                            validate={[required]}
                            warn={tooOld}
                     />
