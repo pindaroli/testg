@@ -404,8 +404,8 @@ const PayForm = (props) => {
                     />
                 </div>
                 <div>
-                    <button type="submit" disabled={submitting}>Submit</button>
-                    <button type="button" disabled={pristine || submitting} onClick={reset}>Clear Values</button>
+                    <button type="submit" className="btn" disabled={submitting}>Submit</button>
+                    <button type="button" className="btn" disabled={pristine || submitting} onClick={reset}>Clear Values</button>
                 </div>
 
             </div>
