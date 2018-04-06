@@ -1,5 +1,6 @@
-function getToken() {
-  const now=new Date;
-  return now.getTime();
+function getToken(header, date) {
+    const isoDate = date.toISOString();
+    return header.padEnd(11,'0')+isoDate;
+
 }
-console.log(getToken())
+console.log(getToken("pippo",new Date()))
