@@ -1,0 +1,360 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"b7357c5e-3c74-447f-86ea-32906244e627\" name=\"Default\" comment=\"\">\n      <change type=\"MODIFICATION\" beforePath=\"$PROJECT_DIR$/src/SimpleForm.js\" afterPath=\"$PROJECT_DIR$/src/SimpleForm.js\" />\n      <change type=\"MODIFICATION\" beforePath=\"$PROJECT_DIR$/src/index.js\" afterPath=\"$PROJECT_DIR$/src/index.js\" />\n    </list>\n    <ignored path=\"$PROJECT_DIR$/out/\" />\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"TRACKING_ENABLED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileEditorManager\">\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\n      <file leaf-file-name=\"registerServiceWorker.js\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/registerServiceWorker.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"0\">\n              <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n              <folding>\n                <marker date=\"1521906207246\" expanded=\"true\" signature=\"1480:1547\" ph=\"{...}\" />\n                <marker date=\"1521906207246\" expanded=\"true\" signature=\"1883:1902\" ph=\"{...}\" />\n                <marker date=\"1521906207246\" expanded=\"true\" signature=\"2307:2327\" ph=\"{...}\" />\n                <marker date=\"1521906207246\" expanded=\"true\" signature=\"3260:3275\" ph=\"{...}\" />\n                <marker date=\"1521906207246\" expanded=\"true\" signature=\"3501:3611\" ph=\"{...}\" />\n                <marker date=\"1521906207246\" expanded=\"true\" signature=\"3852:3876\" ph=\"{...}\" />\n                <marker date=\"1521906207246\" expanded=\"true\" signature=\"3901:3921\" ph=\"{...}\" />\n                <marker date=\"1521906207246\" expanded=\"true\" signature=\"4098:4113\" ph=\"{...}\" />\n                <marker date=\"1521906207246\" expanded=\"true\" signature=\"4335:4355\" ph=\"{...}\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"index.html\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/public/index.html\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"0\">\n              <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"manifest.json\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/public/manifest.json\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"0\">\n              <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"SimpleForm.js\" pinned=\"false\" current-in-tab=\"true\">\n        <entry file=\"file://$PROJECT_DIR$/src/SimpleForm.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"-1132\">\n              <caret line=\"1\" column=\"45\" lean-forward=\"false\" selection-start-line=\"1\" selection-start-column=\"45\" selection-end-line=\"1\" selection-end-column=\"45\" />\n              <folding>\n                <element signature=\"e#0#25#0\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"index.js\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/index.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"105\">\n              <caret line=\"7\" column=\"46\" lean-forward=\"false\" selection-start-line=\"7\" selection-start-column=\"46\" selection-end-line=\"7\" selection-end-column=\"46\" />\n              <folding>\n                <element signature=\"e#0#26#0\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"bootstrap.css\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"-4050\">\n              <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"store.js\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/store.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"165\">\n              <caret line=\"11\" column=\"0\" lean-forward=\"false\" selection-start-line=\"11\" selection-start-column=\"0\" selection-end-line=\"11\" selection-end-column=\"0\" />\n              <folding>\n                <element signature=\"e#0#53#0\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"bundle.css\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/node_modules/redux-form-website-template/dist/bundle.css\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"-1935\">\n              <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"showResults.js\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/showResults.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"90\">\n              <caret line=\"6\" column=\"0\" lean-forward=\"false\" selection-start-line=\"6\" selection-start-column=\"0\" selection-end-line=\"6\" selection-end-column=\"0\" />\n              <folding />\n            </state>\n          </provider>\n        </entry>\n      </file>\n    </leaf>\n  </component>\n  <component name=\"FindInProjectRecents\">\n    <findStrings>\n      <find>Values</find>\n    </findStrings>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GradleLocalSettings\">\n    <option name=\"externalProjectsViewState\">\n      <projects_view />\n    </option>\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/src/ShowResult.js\" />\n        <option value=\"$PROJECT_DIR$/src/store.js\" />\n        <option value=\"$PROJECT_DIR$/src/index.js\" />\n        <option value=\"$PROJECT_DIR$/src/SimpleForm.js\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"JsBuildToolGruntFileManager\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\n  <component name=\"JsBuildToolPackageJson\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\">\n    <package-json value=\"$PROJECT_DIR$/package.json\" />\n  </component>\n  <component name=\"JsGulpfileManager\">\n    <detection-done>true</detection-done>\n    <sorting>DEFINITION_ORDER</sorting>\n  </component>\n  <component name=\"NodeModulesDirectoryManager\">\n    <handled-path value=\"$PROJECT_DIR$/node_modules\" />\n  </component>\n  <component name=\"ProjectFrameBounds\">\n    <option name=\"x\" value=\"397\" />\n    <option name=\"y\" value=\"151\" />\n    <option name=\"width\" value=\"1400\" />\n    <option name=\"height\" value=\"1000\" />\n  </component>\n  <component name=\"ProjectView\">\n    <navigator currentView=\"ProjectPane\" proportions=\"\" version=\"1\">\n      <flattenPackages />\n      <showMembers />\n      <showModules />\n      <showLibraryContents />\n      <hideEmptyPackages />\n      <abbreviatePackageNames />\n      <autoscrollToSource />\n      <autoscrollFromSource />\n      <sortByType />\n      <manualOrder />\n      <foldersAlwaysOnTop value=\"true\" />\n    </navigator>\n    <panes>\n      <pane id=\"Scratches\" />\n      <pane id=\"PackagesPane\" />\n      <pane id=\"Scope\" />\n      <pane id=\"ProjectPane\">\n        <subPane>\n          <expand>\n            <path>\n              <item name=\"testg\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"testg\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"testg\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"testg\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"node_modules\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"testg\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"testg\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"node_modules\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"bootstrap\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"testg\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"testg\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"node_modules\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"bootstrap\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"dist\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"testg\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"testg\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"node_modules\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"bootstrap\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"dist\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"css\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"testg\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"testg\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"node_modules\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"bootstrap\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"js\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"testg\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"testg\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"node_modules\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"bootstrap\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"js\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"dist\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"testg\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"testg\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"public\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"testg\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"testg\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n          </expand>\n          <select />\n        </subPane>\n      </pane>\n      <pane id=\"AndroidView\" />\n    </panes>\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"nodejs_interpreter_path\" value=\"/usr/bin/node\" />\n    <property name=\"project.structure.last.edited\" value=\"Project\" />\n    <property name=\"project.structure.proportion\" value=\"0.0\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.0\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../redux-form\" />\n    <property name=\"nodejs.jest.jest_package\" value=\"$PROJECT_DIR$/node_modules/react-scripts\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src\" />\n    </key>\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"RunManager\">\n    <configuration default=\"true\" type=\"Applet\" factoryName=\"Applet\">\n      <option name=\"HTML_USED\" value=\"false\" />\n      <option name=\"WIDTH\" value=\"400\" />\n      <option name=\"HEIGHT\" value=\"300\" />\n      <option name=\"POLICY_FILE\" value=\"$APPLICATION_HOME_DIR$/bin/appletviewer.policy\" />\n      <module />\n    </configuration>\n    <configuration default=\"true\" type=\"Application\" factoryName=\"Application\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"VM_PARAMETERS\" />\n      <option name=\"PROGRAM_PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"ENABLE_SWING_INSPECTOR\" value=\"false\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <module name=\"\" />\n      <envs />\n    </configuration>\n    <configuration default=\"true\" type=\"JUnit\" factoryName=\"JUnit\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <module name=\"\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"PACKAGE_NAME\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"METHOD_NAME\" />\n      <option name=\"TEST_OBJECT\" value=\"class\" />\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$MODULE_DIR$\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"singleModule\" />\n      </option>\n      <envs />\n      <patterns />\n    </configuration>\n    <configuration default=\"true\" type=\"Remote\" factoryName=\"Remote\">\n      <option name=\"USE_SOCKET_TRANSPORT\" value=\"true\" />\n      <option name=\"SERVER_MODE\" value=\"false\" />\n      <option name=\"SHMEM_ADDRESS\" value=\"javadebug\" />\n      <option name=\"HOST\" value=\"localhost\" />\n      <option name=\"PORT\" value=\"5005\" />\n    </configuration>\n    <configuration default=\"true\" type=\"TestNG\" factoryName=\"TestNG\">\n      <extension name=\"coverage\" enabled=\"false\" merge=\"false\" sample_coverage=\"true\" runner=\"idea\" />\n      <module name=\"\" />\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"false\" />\n      <option name=\"ALTERNATIVE_JRE_PATH\" />\n      <option name=\"SUITE_NAME\" />\n      <option name=\"PACKAGE_NAME\" />\n      <option name=\"MAIN_CLASS_NAME\" />\n      <option name=\"METHOD_NAME\" />\n      <option name=\"GROUP_NAME\" />\n      <option name=\"TEST_OBJECT\" value=\"CLASS\" />\n      <option name=\"VM_PARAMETERS\" value=\"-ea\" />\n      <option name=\"PARAMETERS\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$MODULE_DIR$\" />\n      <option name=\"OUTPUT_DIRECTORY\" />\n      <option name=\"ANNOTATION_TYPE\" />\n      <option name=\"ENV_VARIABLES\" />\n      <option name=\"PASS_PARENT_ENVS\" value=\"true\" />\n      <option name=\"TEST_SEARCH_SCOPE\">\n        <value defaultName=\"singleModule\" />\n      </option>\n      <option name=\"USE_DEFAULT_REPORTERS\" value=\"false\" />\n      <option name=\"PROPERTIES_FILE\" />\n      <envs />\n      <properties />\n      <listeners />\n    </configuration>\n    <configuration name=\"&lt;template&gt;\" type=\"#org.jetbrains.idea.devkit.run.PluginConfigurationType\" default=\"true\" selected=\"false\">\n      <option name=\"VM_PARAMETERS\" value=\"-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea\" />\n    </configuration>\n    <configuration name=\"start\" type=\"js.build_tools.npm\" factoryName=\"npm\" temporary=\"true\" nameIsGenerated=\"true\">\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\n      <command value=\"run\" />\n      <scripts>\n        <script value=\"start\" />\n      </scripts>\n      <node-interpreter value=\"project\" />\n      <envs />\n    </configuration>\n    <recent_temporary>\n      <list size=\"1\">\n        <item index=\"0\" class=\"java.lang.String\" itemvalue=\"npm.start\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SbtLocalSettings\">\n    <option name=\"externalProjectsViewState\">\n      <projects_view />\n    </option>\n  </component>\n  <component name=\"ShelveChangesManager\" show_recycled=\"false\">\n    <option name=\"remove_strategy\" value=\"false\" />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"b7357c5e-3c74-447f-86ea-32906244e627\" name=\"Default\" comment=\"\" />\n      <created>1521906819825</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1521906819825</updated>\n      <workItem from=\"1521906822453\" duration=\"644000\" />\n      <workItem from=\"1521907841886\" duration=\"658000\" />\n      <workItem from=\"1521985167096\" duration=\"4003000\" />\n      <workItem from=\"1522001942050\" duration=\"4169000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TimeTrackingManager\">\n    <option name=\"totallyTimeSpent\" value=\"9474000\" />\n  </component>\n  <component name=\"TodoView\">\n    <todo-panel id=\"selected-file\">\n      <is-autoscroll-to-source value=\"true\" />\n    </todo-panel>\n    <todo-panel id=\"all\">\n      <are-packages-shown value=\"true\" />\n      <is-autoscroll-to-source value=\"true\" />\n    </todo-panel>\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"397\" y=\"151\" width=\"1400\" height=\"1000\" extended-state=\"0\" />\n    <layout>\n      <window_info id=\"Palette\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"TODO\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.32911393\" sideWeight=\"0.5\" order=\"6\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Palette&#9;\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Image Layers\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Capture Analysis\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Event Log\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"7\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Maven Projects\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Version Control\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"7\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Run\" active=\"true\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"true\" show_stripe_button=\"true\" weight=\"0.32911393\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"npm\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"true\" show_stripe_button=\"true\" weight=\"0.25185734\" sideWeight=\"0.5214408\" order=\"2\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Terminal\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"7\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Capture Tool\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Designer\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Project\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"true\" show_stripe_button=\"true\" weight=\"0.25185734\" sideWeight=\"0.47855917\" order=\"0\" side_tool=\"false\" content_ui=\"combo\" />\n      <window_info id=\"Database\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Find\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.32911393\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Structure\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Ant Build\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"true\" show_stripe_button=\"true\" weight=\"0.24962853\" sideWeight=\"0.5\" order=\"1\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"UI Designer\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Theme Preview\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Favorites\" active=\"false\" anchor=\"left\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"2\" side_tool=\"true\" content_ui=\"tabs\" />\n      <window_info id=\"Debug\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.4\" sideWeight=\"0.5\" order=\"3\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Cvs\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"4\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Message\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.33\" sideWeight=\"0.5\" order=\"0\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Commander\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.4\" sideWeight=\"0.5\" order=\"0\" side_tool=\"false\" content_ui=\"tabs\" />\n      <window_info id=\"Hierarchy\" active=\"false\" anchor=\"right\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.25\" sideWeight=\"0.5\" order=\"2\" side_tool=\"false\" content_ui=\"combo\" />\n      <window_info id=\"Inspection\" active=\"false\" anchor=\"bottom\" auto_hide=\"false\" internal_type=\"DOCKED\" type=\"DOCKED\" visible=\"false\" show_stripe_button=\"true\" weight=\"0.4\" sideWeight=\"0.5\" order=\"5\" side_tool=\"false\" content_ui=\"tabs\" />\n    </layout>\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"1\" />\n  </component>\n  <component name=\"VcsContentAnnotationSettings\">\n    <option name=\"myLimit\" value=\"2678400000\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"javascript\">\n          <url>file://$PROJECT_DIR$/src/SimpleForm.js</url>\n          <properties />\n        </line-breakpoint>\n      </breakpoints>\n      <option name=\"time\" value=\"1\" />\n    </breakpoint-manager>\n    <watches-manager />\n  </component>\n  <component name=\"antWorkspaceConfiguration\">\n    <option name=\"IS_AUTOSCROLL_TO_SOURCE\" value=\"false\" />\n    <option name=\"FILTER_TARGETS\" value=\"false\" />\n  </component>\n  <component name=\"editorHistoryManager\">\n    <entry file=\"file://$PROJECT_DIR$/src/registerServiceWorker.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding>\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"1480:1547\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"1883:1902\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"2307:2327\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"3260:3275\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"3501:3611\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"3852:3876\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"3901:3921\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"4098:4113\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"4335:4355\" ph=\"{...}\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/public/index.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/index.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"195\">\n          <caret line=\"19\" column=\"2\" lean-forward=\"false\" selection-start-line=\"19\" selection-start-column=\"2\" selection-end-line=\"19\" selection-end-column=\"2\" />\n          <folding>\n            <element signature=\"e#0#26#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/SimpleForm.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding>\n            <element signature=\"e#0#25#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/showResults.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"90\">\n          <caret line=\"6\" column=\"0\" lean-forward=\"false\" selection-start-line=\"6\" selection-start-column=\"0\" selection-end-line=\"6\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/store.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding>\n            <element signature=\"e#0#53#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/registerServiceWorker.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding>\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"1480:1547\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"1883:1902\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"2307:2327\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"3260:3275\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"3501:3611\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"3852:3876\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"3901:3921\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"4098:4113\" ph=\"{...}\" />\n            <marker date=\"1521906207246\" expanded=\"true\" signature=\"4335:4355\" ph=\"{...}\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/README.md\">\n      <provider selected=\"true\" editor-type-id=\"split-provider[text-editor;markdown-preview-editor]\">\n        <state split_layout=\"SPLIT\">\n          <first_editor relative-caret-position=\"-11790\">\n            <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n            <folding>\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"13357:13385\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"14778:15054\" ph=\"{&quot;version&quot;: &quot;0.2.0&quot;...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"14822:15052\" ph=\"[...]\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"14823:15051\" ph=\"{&quot;name&quot;: &quot;Chrome&quot;...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"14999:15047\" ph=\"{&quot;webpack:///src/*&quot;: &quot;${webRoot}/*&quot;...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"20280:20311\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"20293:20309\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"20417:20482\" ph=\"...\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"20561:20616\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"20574:20614\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"25301:25588\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"55227:55340\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"55249:55329\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"55263:55325\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"57214:57626\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"57236:57615\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"57253:57611\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"57340:57575\" ph=\"//...\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"64619:64633\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"67437:67515\" ph=\"...\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"67554:67566\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"68488:68566\" ph=\"...\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"68604:68639\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"71199:71282\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"72573:72990\" ph=\"{&quot;name&quot;: &quot;your-package&quot;...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"72611:72988\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"72641:72741\" ph=\"[...]\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"72768:72896\" ph=\"{...}\" />\n              <marker date=\"1521906207246\" expanded=\"true\" signature=\"72786:72890\" ph=\"{&quot;branches&quot;: 90...}\" />\n            </folding>\n          </first_editor>\n          <second_editor />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/showResults.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"90\">\n          <caret line=\"6\" column=\"0\" lean-forward=\"false\" selection-start-line=\"6\" selection-start-column=\"0\" selection-end-line=\"6\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/node_modules/redux-form-website-template/dist/bundle.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"-1276\">\n          <caret line=\"10\" column=\"5939\" lean-forward=\"false\" selection-start-line=\"10\" selection-start-column=\"5933\" selection-end-line=\"10\" selection-end-column=\"5939\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/App.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"-1146\">\n          <caret line=\"15289\" column=\"0\" lean-forward=\"false\" selection-start-line=\"15289\" selection-start-column=\"0\" selection-end-line=\"15289\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/store.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"165\">\n          <caret line=\"11\" column=\"0\" lean-forward=\"false\" selection-start-line=\"11\" selection-start-column=\"0\" selection-end-line=\"11\" selection-end-column=\"0\" />\n          <folding>\n            <element signature=\"e#0#53#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/node_modules/redux-form-website-template/dist/bundle.css\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"-1935\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/public/index.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/App.css\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/App.test.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/public/manifest.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/index.css\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"0\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"-4050\">\n          <caret line=\"0\" column=\"0\" lean-forward=\"false\" selection-start-line=\"0\" selection-start-column=\"0\" selection-end-line=\"0\" selection-end-column=\"0\" />\n          <folding />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/index.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"105\">\n          <caret line=\"7\" column=\"46\" lean-forward=\"false\" selection-start-line=\"7\" selection-start-column=\"46\" selection-end-line=\"7\" selection-end-column=\"46\" />\n          <folding>\n            <element signature=\"e#0#26#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/SimpleForm.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"-1132\">\n          <caret line=\"1\" column=\"45\" lean-forward=\"false\" selection-start-line=\"1\" selection-start-column=\"45\" selection-end-line=\"1\" selection-end-column=\"45\" />\n          <folding>\n            <element signature=\"e#0#25#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n  </component>\n  <component name=\"masterDetails\">\n    <states>\n      <state key=\"GlobalLibrariesConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"JdkListConfigurable.UI\">\n        <settings>\n          <last-edited>1.8</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ProjectJDKs.UI\">\n        <settings>\n          <last-edited>1.8</last-edited>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n      <state key=\"ProjectLibrariesConfigurable.UI\">\n        <settings>\n          <splitter-proportions>\n            <option name=\"proportions\">\n              <list>\n                <option value=\"0.2\" />\n              </list>\n            </option>\n          </splitter-proportions>\n        </settings>\n      </state>\n    </states>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision a7442fd356c34fef8109ac62d415008ec6eb8d90)
++++ .idea/workspace.xml	(revision )
+@@ -2,8 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="b7357c5e-3c74-447f-86ea-32906244e627" name="Default" comment="">
+-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SimpleForm.js" afterPath="$PROJECT_DIR$/src/SimpleForm.js" />
+-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+     </list>
+     <ignored path="$PROJECT_DIR$/out/" />
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+@@ -58,7 +57,7 @@
+       <file leaf-file-name="SimpleForm.js" pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/src/SimpleForm.js">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="-1132">
++            <state relative-caret-position="15">
+               <caret line="1" column="45" lean-forward="false" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+               <folding>
+                 <element signature="e#0#25#0" expanded="true" />
+@@ -82,7 +81,7 @@
+       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="-4050">
++            <state relative-caret-position="0">
+               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+               <folding />
+             </state>
+@@ -92,7 +91,7 @@
+       <file leaf-file-name="store.js" pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/src/store.js">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="165">
++            <state relative-caret-position="150">
+               <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+               <folding>
+                 <element signature="e#0#53#0" expanded="true" />
+@@ -104,7 +103,7 @@
+       <file leaf-file-name="bundle.css" pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/node_modules/redux-form-website-template/dist/bundle.css">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="-1935">
++            <state relative-caret-position="0">
+               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+               <folding />
+             </state>
+@@ -179,6 +178,7 @@
+     </navigator>
+     <panes>
+       <pane id="Scratches" />
++      <pane id="AndroidView" />
+       <pane id="PackagesPane" />
+       <pane id="Scope" />
+       <pane id="ProjectPane">
+@@ -243,7 +243,6 @@
+           <select />
+         </subPane>
+       </pane>
+-      <pane id="AndroidView" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
+@@ -385,12 +384,13 @@
+       <workItem from="1521906822453" duration="644000" />
+       <workItem from="1521907841886" duration="658000" />
+       <workItem from="1521985167096" duration="4003000" />
+-      <workItem from="1522001942050" duration="4169000" />
++      <workItem from="1522001942050" duration="4308000" />
++      <workItem from="1522574863611" duration="758000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="9474000" />
++    <option name="totallyTimeSpent" value="10371000" />
+   </component>
+   <component name="TodoView">
+     <todo-panel id="selected-file">
+@@ -411,26 +411,26 @@
+       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
++      <window_info id="npm" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25557205" sideWeight="0.52589184" order="2" side_tool="true" content_ui="tabs" />
++      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25185734" sideWeight="0.5214408" order="2" side_tool="true" content_ui="tabs" />
+       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25185734" sideWeight="0.47855917" order="0" side_tool="false" content_ui="combo" />
++      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25557205" sideWeight="0.47410816" order="0" side_tool="false" content_ui="combo" />
+       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962853" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
++      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
++      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+     </layout>
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -444,7 +444,6 @@
+       <breakpoints>
+         <line-breakpoint enabled="true" type="javascript">
+           <url>file://$PROJECT_DIR$/src/SimpleForm.js</url>
+-          <properties />
+         </line-breakpoint>
+       </breakpoints>
+       <option name="time" value="1" />
+@@ -482,6 +481,94 @@
+         </state>
+       </provider>
+     </entry>
++    <entry file="file://$PROJECT_DIR$/public/manifest.json">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/index.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="105">
++          <caret line="7" column="46" lean-forward="false" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
++          <folding>
++            <element signature="e#0#26#0" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/store.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="150">
++          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
++          <folding>
++            <element signature="e#0#53#0" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/node_modules/redux-form-website-template/dist/bundle.css">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/showResults.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="90">
++          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/SimpleForm.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="15">
++          <caret line="1" column="45" lean-forward="false" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
++          <folding>
++            <element signature="e#0#25#0" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding>
++            <marker date="1521906207246" expanded="true" signature="1480:1547" ph="{...}" />
++            <marker date="1521906207246" expanded="true" signature="1883:1902" ph="{...}" />
++            <marker date="1521906207246" expanded="true" signature="2307:2327" ph="{...}" />
++            <marker date="1521906207246" expanded="true" signature="3260:3275" ph="{...}" />
++            <marker date="1521906207246" expanded="true" signature="3501:3611" ph="{...}" />
++            <marker date="1521906207246" expanded="true" signature="3852:3876" ph="{...}" />
++            <marker date="1521906207246" expanded="true" signature="3901:3921" ph="{...}" />
++            <marker date="1521906207246" expanded="true" signature="4098:4113" ph="{...}" />
++            <marker date="1521906207246" expanded="true" signature="4335:4355" ph="{...}" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/public/index.html">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
+     <entry file="file://$PROJECT_DIR$/src/index.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="195">
+@@ -543,37 +630,6 @@
+         <state split_layout="SPLIT">
+           <first_editor relative-caret-position="-11790">
+             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-            <folding>
+-              <marker date="1521906207246" expanded="true" signature="13357:13385" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="14778:15054" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+-              <marker date="1521906207246" expanded="true" signature="14822:15052" ph="[...]" />
+-              <marker date="1521906207246" expanded="true" signature="14823:15051" ph="{&quot;name&quot;: &quot;Chrome&quot;...}" />
+-              <marker date="1521906207246" expanded="true" signature="14999:15047" ph="{&quot;webpack:///src/*&quot;: &quot;${webRoot}/*&quot;...}" />
+-              <marker date="1521906207246" expanded="true" signature="20280:20311" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="20293:20309" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="20417:20482" ph="..." />
+-              <marker date="1521906207246" expanded="true" signature="20561:20616" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="20574:20614" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="25301:25588" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="55227:55340" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="55249:55329" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="55263:55325" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="57214:57626" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="57236:57615" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="57253:57611" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="57340:57575" ph="//..." />
+-              <marker date="1521906207246" expanded="true" signature="64619:64633" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="67437:67515" ph="..." />
+-              <marker date="1521906207246" expanded="true" signature="67554:67566" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="68488:68566" ph="..." />
+-              <marker date="1521906207246" expanded="true" signature="68604:68639" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="71199:71282" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="72573:72990" ph="{&quot;name&quot;: &quot;your-package&quot;...}" />
+-              <marker date="1521906207246" expanded="true" signature="72611:72988" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="72641:72741" ph="[...]" />
+-              <marker date="1521906207246" expanded="true" signature="72768:72896" ph="{...}" />
+-              <marker date="1521906207246" expanded="true" signature="72786:72890" ph="{&quot;branches&quot;: 90...}" />
+-            </folding>
+           </first_editor>
+           <second_editor />
+         </state>
+@@ -591,29 +647,20 @@
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="-1276">
+           <caret line="10" column="5939" lean-forward="false" selection-start-line="10" selection-start-column="5933" selection-end-line="10" selection-end-column="5939" />
+-          <folding />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/App.js">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
++    <entry file="file://$PROJECT_DIR$/src/App.js" />
+     <entry file="file://$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="-1146">
+           <caret line="15289" column="0" lean-forward="false" selection-start-line="15289" selection-start-column="0" selection-end-line="15289" selection-end-column="0" />
+-          <folding />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/store.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="165">
++        <state relative-caret-position="150">
+           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+           <folding>
+             <element signature="e#0#53#0" expanded="true" />
+@@ -623,7 +670,7 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/node_modules/redux-form-website-template/dist/bundle.css">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="-1935">
++        <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+           <folding />
+         </state>
+@@ -637,22 +684,8 @@
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/App.css">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
++    <entry file="file://$PROJECT_DIR$/src/App.css" />
++    <entry file="file://$PROJECT_DIR$/src/App.test.js" />
+     <entry file="file://$PROJECT_DIR$/public/manifest.json">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+@@ -661,7 +694,8 @@
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/src/index.css">
++    <entry file="file://$PROJECT_DIR$/src/index.css" />
++    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="0">
+           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+@@ -669,14 +703,6 @@
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="-4050">
+-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+     <entry file="file://$PROJECT_DIR$/src/index.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="105">
+@@ -689,7 +715,7 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/SimpleForm.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="-1132">
++        <state relative-caret-position="15">
+           <caret line="1" column="45" lean-forward="false" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+           <folding>
+             <element signature="e#0#25#0" expanded="true" />
