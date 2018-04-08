@@ -3,4 +3,4 @@ function getToken(header, date) {
     return header.padEnd(11,'0')+isoDate;
 
 }
-console.log(getToken("pippo",new Date()))
+export default  getToken 

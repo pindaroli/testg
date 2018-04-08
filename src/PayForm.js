@@ -26,7 +26,7 @@ const renderFieldText = ({input, label, type, len, maxlen, meta: {touched, error
         <label className={"small"}>{label}</label>
         <div>
             <input {...input} type={"Text"} maxlength={maxlen} size={len}/>
-            {touched && ((error && <span>{error}</span>) || (warning && <span>{warning}</span>))}
+            {touched && ((error && <span className="alert-danger">{error}</span>) || (warning && <span>{warning}</span>))}
         </div>
     </div>
 )
