@@ -1,6 +1,6 @@
 import rulesMap from './rulesMap';
 
-console.log("rulesMap="+JSON.stringify(rulesMap));
+console.log("rulesMap="+rulesMap);
 
 function getToken(header, date) {
     const isoDate = date.toISOString();
@@ -25,10 +25,10 @@ const packer = {
         const copyVal=this.initValues(values);
         var accum='';
         for (let value of rulesMap) {
-            const name=value.fieldName;
+            const name=value[1].fieldName;
             console.log("name="+name);
             const st=(copyVal[name]===undefined)?'':copyVal[name];
-            accum=accum+st.padEnd(value.len);
+            accum=accum+st.padEnd(value[1].len,' ');
         }
         return accum;
     }
