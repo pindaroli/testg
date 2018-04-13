@@ -1,6 +1,6 @@
 import React from 'react'
 import {Field, reduxForm} from 'redux-form'
-import ruleNode from './ruleNode'
+
 
 
 const required = value => value ? undefined : '*'
@@ -25,7 +25,7 @@ const renderFieldText = ({input, label, type, len, maxlen, meta: {touched, error
     <div className={"col-sm"}>
         <label className={"small"}>{label}</label>
         <div>
-            <input {...input} type={"Text"} maxlength={maxlen} size={len}/>
+            <input {...input} type={"Text"} maxLength={maxlen} size={len}/>
             {touched && ((error && <span className="alert-danger">{error}</span>) || (warning && <span>{warning}</span>))}
         </div>
     </div>
@@ -360,8 +360,17 @@ const PayForm = (props) => {
                            validate={rulesMap.get('FillerArea').isMandatory?[required]:null}
                     />
                 </div>
+                <div className="row">
+                    <Field name="Buffer"
+                           component={renderFieldText} label="Buffer"
+                           maxlen={2000}
+                           len={2000}
+
+                    />
+                </div>
                 <div>
                     <button type="submit" className="btn" disabled={submitting}>Submit</button>
+                    <button type="button" className="btn">Unpack</button>
                     <button type="button" className="btn" disabled={pristine || submitting} onClick={reset}>Clear Values</button>
                 </div>
 
