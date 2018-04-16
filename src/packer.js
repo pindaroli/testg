@@ -26,7 +26,6 @@ const packer = {
         var accum='';
         for (let value of rulesMap) {
             const name=value[1].fieldName;
-            console.log("name="+name);
             const st=(copyVal[name]===undefined)?'':copyVal[name];
             accum=accum+st.padEnd(value[1].len,' ');
         }
