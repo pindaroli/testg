@@ -32,7 +32,7 @@ const renderFieldText = ({input, label, type, len, maxlen, meta: {touched, error
 )
 
 const PayForm = (props) => {
-    const {handleSubmit, pristine, reset, submitting, rulesMap, pack, unpack} = props;
+    const {handleSubmit, pristine, reset, submitting, rulesMap, pack, unPack} = props;
     return (
 
         <form onSubmit={handleSubmit}>
@@ -362,16 +362,16 @@ const PayForm = (props) => {
                 </div>
                 <div className="row">
                     <Field name="Buffer"
-                           component={renderFieldText} label="Buffer"
+                           component={renderFieldText}
+                           label="Buffer"
                            maxlen={2000}
                            len={2000}
-
                     />
                 </div>
                 <div>
                     <button type="submit" className="btn" disabled={submitting}>Submit</button>
                     <button type="button" className="btn" onClick={pack}>Pack</button>
-                    <button type="button" className="btn" onClick={unpack}>Unpack</button>
+                    <button type="button" className="btn" onClick={unPack}>Unpack</button>
                     <button type="button" className="btn" disabled={pristine || submitting} onClick={reset}>Clear Values</button>
                 </div>
 

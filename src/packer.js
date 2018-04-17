@@ -1,6 +1,8 @@
 //import rulesMap from './rulesMap';
 
 //console.log("rulesMap="+rulesMap);
+import { change } from 'redux-form'
+
 
 function getToken(header, date) {
     const isoDate = date.toISOString();
@@ -30,7 +32,15 @@ const packer = {
             accum=accum+st.padEnd(value[1].len,' ');
         }
         return accum;
+    },
+    unpack: function (buffer,rulesMap,store) {
+        for (let item of rulesMap) {
+            const name=item[1].fieldName;
+            const val=buffer.substring(item[1].startPos,item[1].startPos+item[1].len).trim();
+            //console.log("name="+name+" val="+val);
+            if (val!=='') store.dispatch(change("payForm",name,val));
+        }
     }
-}
+};
 
 export default packer;
