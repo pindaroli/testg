@@ -6,9 +6,13 @@ import packer from './packer'
 const sub=(store,rulesMap,values) =>{
     //await sleep(500); // simulate server latency
     const buffer=packer.pack(rulesMap,values);
-    fetch('wwww.goggle.com').then((response)=> {
-        console.log(response);
-    })
+    fetch('/hello')
+        .then(function(response) {
+            return response.json();
+        })
+        .then(function(myJson) {
+            console.log(myJson);
+        });
 }
 
 const subCurr=(store,rulesMap) => ((values)=>sub(store,rulesMap,values));
